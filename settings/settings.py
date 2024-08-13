@@ -1,0 +1,2 @@
+token = '7372578127:AAFZAIsNpfBAVkq_Aq9f3rzdDZVh3YHzaG4'
+ai_token = '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'
